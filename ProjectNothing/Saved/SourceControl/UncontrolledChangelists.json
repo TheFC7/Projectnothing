@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"B:/Project12/Projectnothing/ProjectNothing/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"B:/Project12/Projectnothing/ProjectNothing/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"B:/Project12/Projectnothing/ProjectNothing/Content/ThirdPerson/Maps/Worldmap.umap"
 			]
 		}
 	]
